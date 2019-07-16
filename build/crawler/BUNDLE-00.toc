@@ -1,0 +1,1 @@
+([('crawler', '/Users/sana/loatem/dist/crawler', 'EXECUTABLE')],)
