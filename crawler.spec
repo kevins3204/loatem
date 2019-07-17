@@ -30,8 +30,8 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False )
+          console=False , icon='icon.jpg')
 app = BUNDLE(exe,
              name='crawler.app',
-             icon=None,
+             icon='icon.jpg',
              bundle_identifier=None)

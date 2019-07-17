@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>MacOS/crawler</string>
 	<key>CFBundleIconFile</key>
-	<string>icon-windowed.icns</string>
+	<string>icon.jpg</string>
 	<key>CFBundleIdentifier</key>
 	<string>crawler</string>
 	<key>CFBundleInfoDictionaryVersion</key>
